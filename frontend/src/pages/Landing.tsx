@@ -12,7 +12,7 @@ export function Landing() {
       <nav className="fixed top-0 w-full bg-white/80 backdrop-blur-md border-b border-blue-200 z-50 shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <img src="/logo.png" alt="CrisisNet" className="h-12 md:h-14 w-auto rounded-lg shadow-sm" />
+            <img src="https://res.cloudinary.com/dqac5kjhq/image/upload/v1766939339/Gemini_Generated_Image_oa3floa3floa3flo-removebg-preview_sjb2kt.png" alt="CrisisNet" className="h-12 md:h-14 w-auto rounded-lg shadow-sm" />
           </div>
           {user ? (
             <div className="flex items-center gap-4">
