@@ -74,7 +74,7 @@ export function Login() {
         <div className="bg-white rounded-2xl shadow-xl p-8">
           <div className="text-center mb-8">
             <div className="flex justify-center mb-4">
-              <img src="/logo.png" alt="CrisisNet" className="h-16 md:h-20 w-auto" />
+              <img src="https://res.cloudinary.com/dqac5kjhq/image/upload/v1766939339/Gemini_Generated_Image_oa3floa3floa3flo-removebg-preview_sjb2kt.png" alt="CrisisNet" className="h-16 md:h-20 w-auto" />
             </div>
             <h2 className="text-3xl font-bold text-gray-900">
               {isSignUp ? 'Create Account' : 'Welcome Back'}

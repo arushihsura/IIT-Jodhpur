@@ -249,7 +249,7 @@ export function Landing() {
           <div className="grid md:grid-cols-4 gap-8 mb-8">
             <div>
               <div className="flex items-center gap-2 mb-4">
-                <img src="/logo.png" alt="CrisisNet" className="h-10 md:h-12 w-auto rounded-lg shadow-sm" />
+                <img src="https://res.cloudinary.com/dqac5kjhq/image/upload/v1766939339/Gemini_Generated_Image_oa3floa3floa3flo-removebg-preview_sjb2kt.png" alt="CrisisNet" className="h-10 md:h-12 w-auto rounded-lg shadow-sm" />
               </div>
               <p className="text-gray-700 text-sm">Real-time emergency response network.</p>
             </div>
